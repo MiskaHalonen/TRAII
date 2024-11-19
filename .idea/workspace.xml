@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb6b1ccf-6734-4f3b-80ae-1819f44d1192" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRAII.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko1/TRAII_24_X1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko1/TRAII_24_X1_miskah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko1/TRAII_24_X1_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko2/TRAII_24_X2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko2/TRAII_24_X2_miskah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Viikko2/TRAII_24_X2_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Viikko4/TRAII_24_X4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Viikko4/TRAII_24_X4_skeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Viikko4/TRAII_24_X4_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/viikko_3/TRAII_24_X3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viikko3/TRAII_24_X3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/viikko_3/TRAII_24_X3_miskah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viikko3/TRAII_24_X3_miskah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/viikko_3/TRAII_24_X3_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viikko3/TRAII_24_X3_test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oLmcr4oaz6hAg9IpMAd2oenH3D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Miska/OneDrive - University of Eastern Finland/Tärkeät_lataukset/tra2017.jar",
+    "last_opened_file_path": "C:/Users/miskah/Downloads/tra_2017.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
